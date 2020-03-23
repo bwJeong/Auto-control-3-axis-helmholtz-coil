@@ -12,10 +12,10 @@
 검교정을 위한 데이터 수집 과정은 사용자 정의 자기장 형성 및 데이터 저장과 같은 반복적인 작업으로 이루어진다. 자동화 시스템이 개발되기 이전의 경우 해당 과정은 수동으로 진행되었기 때문에, 시간적 비효율성 및 교정 결과의 신뢰성 하락과 같은 단점들을 불러일으켰다. 따라서 이러한 단점들을 극복하기 위해서 소프트웨어를 통해 반복적인 작업을 자동으로 수행할 수 있도록 하였으며, 결과적으로 검교정 과정의 효율성 및 신뢰성 향상을 기대하고자 한다.
 
 # 시스템 구성 블록 다이어그램
-<img src="https://user-images.githubusercontent.com/54430715/77283100-faa04a80-6d0e-11ea-9ac0-62b5d706326d.png" width="75%" height="75%">
+<p align="center"><img src="https://user-images.githubusercontent.com/54430715/77283100-faa04a80-6d0e-11ea-9ac0-62b5d706326d.png" width="75%" height="75%"></p>
 
 # 사용자 정의 자기장 형성 알고리즘
-<img src="https://user-images.githubusercontent.com/54430715/77283987-fc6b0d80-6d10-11ea-9fe2-109cd2693733.png" width="50%" height="50%">
+<p align="center"><img src="https://user-images.githubusercontent.com/54430715/77283987-fc6b0d80-6d10-11ea-9fe2-109cd2693733.png" width="50%" height="50%"></p>
 
 	1. 헬름홀츠 코일 중심 형성할 사용자 정의 자기장 세기(B_User) 입력
 	2. 표준자력계 측정값(B_Ref.) 기준 자기장 세기 변화량(dB = B_User - B_Ref.) 계산
