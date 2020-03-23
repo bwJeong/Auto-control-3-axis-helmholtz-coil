@@ -15,8 +15,7 @@
 <img src="https://user-images.githubusercontent.com/54430715/77283100-faa04a80-6d0e-11ea-9ac0-62b5d706326d.png" width="75%" height="75%">
 
 # 사용자 정의 자기장 형성 알고리즘
-<img src="https://user-images.githubusercontent.com/54430715/77283987-fc6b0d80-6d10-11ea-9fe2-109cd2693733.png" width="75%" height="75%">
-![Algorithm](https://user-images.githubusercontent.com/54430715/77283987-fc6b0d80-6d10-11ea-9fe2-109cd2693733.png)
+<img src="https://user-images.githubusercontent.com/54430715/77283987-fc6b0d80-6d10-11ea-9fe2-109cd2693733.png" width="50%" height="50%">
 
 	1. 헬름홀츠 코일 중심 형성할 사용자 정의 자기장 세기(B_User) 입력
 	2. 표준자력계 측정값(B_Ref.) 기준 자기장 세기 변화량(dB = B_User - B_Ref.) 계산
