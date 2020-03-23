@@ -15,4 +15,5 @@
 ![Block diagram](https://user-images.githubusercontent.com/54430715/77283100-faa04a80-6d0e-11ea-9ac0-62b5d706326d.png)
 
 # 사용자 정의 자기장 형성 알고리즘
+![Algorithm](https://user-images.githubusercontent.com/54430715/77283987-fc6b0d80-6d10-11ea-9fe2-109cd2693733.png)
 
