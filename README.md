@@ -8,12 +8,14 @@
 - RS232 시리얼 통신 (PSU <-> PC)
 
 ## 주요내용
+- 3축 헬름홀츠코일 중심에 위치한 표준 자력계의 측정값을 피드백함으로써 외부 자기 환경의 보상 및 코일에 의해 형성된 자기장 세기의 오차를 보정 -> **사용자 정의 세기의 자기장 형성이 가능하다!**
+- 사용자 정의 자기장 형성 알고리즘
 
 
-# 시스템 구성 블록 다이어그램
+## 시스템 구성 블록 다이어그램
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/77283100-faa04a80-6d0e-11ea-9ac0-62b5d706326d.png" width="75%" height="75%"></p>
 
-# 사용자 정의 자기장 형성 알고리즘
+## 사용자 정의 자기장 형성 알고리즘
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/77283987-fc6b0d80-6d10-11ea-9fe2-109cd2693733.png" width="50%" height="50%"></p>
 
 	1. 헬름홀츠 코일 중심 형성할 사용자 정의 자기장 세기(B_User) 입력
