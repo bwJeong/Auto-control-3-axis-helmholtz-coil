@@ -35,10 +35,15 @@
 
 ## UI
 - UI는 총 4가지 메뉴('MAIN', 'CONFIG', 'P/S CONTROL', 'MAG CAL')로 구성
-
-
+- 'MAIN' 메뉴: 현재 S/W의 버전 및 업데이트 관리 현황에 관련된 내용 제공
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/114526362-e0227180-9c81-11eb-8177-be79e9c078b7.png" width="80%" height="80%"></p>
+
+- 'CONFIG' 메뉴: 헬름홀츠 코일 각 축에 연결된 DC 전원공급기, 극성 제어용 아두이노 그리고 표준 자력계의 시리얼 통신 연결 관리 및 세이브 데이터 저장경로 설정 기능 제공
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/114526372-e1ec3500-9c81-11eb-95d7-1e6505006e14.png" width="80%" height="80%"></p>
+
+- 'P/S CONTROL' 메뉴: 헬름홀츠 코일 각 축에 연결된 DC 전원공급기 및 극성 제어용 아두이노를 제어하는 기능 제공
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/114526376-e31d6200-9c81-11eb-8175-3b8c36ba734b.png" width="80%" height="80%"></p>
+
+- 'MAG CAL' 메뉴: 자력계 검교정을 위한 핵심 기능(표준 자력계 측정값 디스플레이, 사용자 정의 자기장 형성 기능, 자동 검교정 기능) 제공. 
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/114526383-e3b5f880-9c81-11eb-8d30-637198a48694.png" width="80%" height="80%"></p>
 
