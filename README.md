@@ -35,3 +35,8 @@
 
 ## UI
 
+<p align="center"><img src="https://user-images.githubusercontent.com/54430715/114526362-e0227180-9c81-11eb-8177-be79e9c078b7.png" width="50%" height="50%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54430715/114526372-e1ec3500-9c81-11eb-95d7-1e6505006e14.png" width="50%" height="50%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54430715/114526376-e31d6200-9c81-11eb-8175-3b8c36ba734b.png" width="50%" height="50%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54430715/114526383-e3b5f880-9c81-11eb-8d30-637198a48694.png" height="50%"></p>
+
