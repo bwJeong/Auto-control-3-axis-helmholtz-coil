@@ -34,9 +34,11 @@
 위의 프로세스를 통해 형성할 수 있는 자기장의 최소 세기는 DC 전원공급기의 분해능에 따라 결정되며, 현재 검교정 시스템에서는 헬름홀츠 코일 각 축별 400 nT 정도로 구현이 가능하다.
 
 ## UI
+- UI는 총 4가지 메뉴('MAIN', 'CONFIG', 'P/S CONTROL', 'MAG CAL')로 구성
 
-<p align="center"><img src="https://user-images.githubusercontent.com/54430715/114526362-e0227180-9c81-11eb-8177-be79e9c078b7.png" width="50%" height="50%"></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/54430715/114526372-e1ec3500-9c81-11eb-95d7-1e6505006e14.png" width="50%" height="50%"></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/54430715/114526376-e31d6200-9c81-11eb-8175-3b8c36ba734b.png" width="50%" height="50%"></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/54430715/114526383-e3b5f880-9c81-11eb-8d30-637198a48694.png" height="50%"></p>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/54430715/114526362-e0227180-9c81-11eb-8177-be79e9c078b7.png" width="80%" height="80%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54430715/114526372-e1ec3500-9c81-11eb-95d7-1e6505006e14.png" width="80%" height="80%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54430715/114526376-e31d6200-9c81-11eb-8175-3b8c36ba734b.png" width="80%" height="80%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54430715/114526383-e3b5f880-9c81-11eb-8d30-637198a48694.png" width="80%" height="80%"></p>
 
